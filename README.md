@@ -1,5 +1,6 @@
 # conway-game-of-life
 The classic Conway's game of life cellular automata. Written entirely in C.
+This version of the game uses wrap-around boundaries ("toroidal boundaries"), essentially allowing for the cells to exist in a boundary-less space. 
 
 ## Gameplay
 
